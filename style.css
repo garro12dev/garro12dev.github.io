@@ -1,9 +1,9 @@
 body {
   background-color: blue;
-  jpg.align-right {
-    float: right;
-    margin-left: 10px;}
-  jpg.medium {
-    width: 150px;
-    height: 150px;}
+  jpg.align-center {
+    display: block;
+    margin: Opx auto;}
+  jpg.small {
+    width: 100px;
+    height: 100px;}
 }

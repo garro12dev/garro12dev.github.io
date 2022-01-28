@@ -1,9 +1,9 @@
 body {
   background-color: blue;
-  img.align-right {
+  jpg.align-right {
     float: right;
     margin-left: 10px;}
-  img.medium {
+  jpg.medium {
     width: 150px;
     height: 150;}
 }

@@ -1,9 +1,8 @@
 body {
   background-color: blue;
-  jpg.align-center {
+  jpg{
+    width: 50%;
+    margin: 1px auto;
     display: block;
-    margin: Opx auto;}
-  jpg.small {
-    width: 100px;
-    height: 100px;}
+  }
 }
